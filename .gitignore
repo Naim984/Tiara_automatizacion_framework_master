@@ -1,0 +1,8 @@
+/.idea/
+/target
+/*.iml
+debug.log
+/test-output/
+/test-output/HtmlReport/
+/test-output/LoggerReport/
+/src/test/resources/TestData/Screenshots/
